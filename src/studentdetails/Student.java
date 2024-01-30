@@ -5,7 +5,7 @@
 package studentdetails;
 
 /**
- *
+ * 30,jan 2024
  * @author randh
  */
 public class Student {
